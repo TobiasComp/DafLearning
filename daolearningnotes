@@ -1,0 +1,19 @@
+Outline for Natan Neiman:
+	routes: auth routes
+	DONE:1. create a learning plan:
+		needed: user, want_chazara, type
+		user - comes from the auth
+		want - in body
+		type - in body 
+	DONE:2. learn/chazar a daf:
+		needed: user, type, masechet, daf
+		user - have from the auth
+		type, masechet, daf - from the body
+	3. uncheck a daf:
+		everything like 3
+	4. get learning plan:
+		need: user and type
+	DONE:5. get the dapim learnt for a specific plan:
+		user, type
+	6. delete a plan: 
+		user, type
