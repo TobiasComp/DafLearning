@@ -25,7 +25,7 @@ SECRET_KEY = '3_h043os&qpvlpb1*5-c*in+lu#xy4&u7uzxm%!mu6dm18ee+)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tuvia1234.pythonanywhere.com']
 
 
 # Application definition
